@@ -1,1 +1,1 @@
-0x00. Shell, basics
+This scripts shows varipus permissions that can be done in shell
